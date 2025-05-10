@@ -550,44 +550,43 @@ LinkUp은 모임이라는 소속에 구애받지 않고 언제든 원할 때 신
 - STEP23~24 복구완료
 <img src="assets/test_cases/user/step23-24-recover.gif" alt="STEP21-22 복구완료"/>
 
-- STEP31 프로필수정
-<img src="assets/test_cases/user/step31-profile_edit.gif" alt="STEP31 프로필수정"/>
+</details>
+
+<br>
+
+<details>
+<summary>포인트</summary>
 
 - STEP032 포인트 내역 조회  
-<img src="assets/test_cases/user/step32-profile_transaction.gif" alt="STEP032 포인트 내역 조회"/>
+<img src="assets/test_cases/point/step032-history.PNG" alt="STEP032 포인트 내역 조회"/>
 
-- STEP035-37 계좌 관리(조회, 등록, 수정)  
-<img src="assets/test_cases/point/step35-37-account.gif" alt="STEP035 계좌 관리"/>
+- STEP033 포인트 충전 신청  
+<img src="assets/test_cases/point/step033-request_charge.PNG" alt="STEP033 포인트 충전 신청"/>
+
+- STEP034 포인트 충전  
+<img src="assets/test_cases/point/step034-charge.PNG" alt="STEP034 포인트 충전"/>
+
+- STEP035 계좌 조회  
+<img src="assets/test_cases/point/step035-account_view.PNG" alt="STEP035 계좌 조회"/>
+
+- STEP036 계좌 등록  
+<img src="assets/test_cases/point/step036-account_register.PNG" alt="STEP036 계좌 등록"/>
+
+- STEP037 계좌 수정  
+<img src="assets/test_cases/point/step037-account_edit.PNG" alt="STEP037 계좌 수정"/>
+
+- STEP038 포인트 환불 신청  
+<img src="assets/test_cases/point/step038-refund_request.PNG" alt="STEP038 포인트 환불 신청"/>
 
 - STEP039 정산 내역 조회  
-<img src="assets/test_cases/point/step39-settlement_history.PNG" alt="STEP039 정산 내역 조회"/>
+<img src="assets/test_cases/point/step039-settlement_history.PNG" alt="STEP039 정산 내역 조회"/>
 
 - STEP040 월별 정산 대금 조회  
-<img src="assets/test_cases/point/step40-settlement-monthly.PNG" alt="STEP040 월별 정산 대금 조회"/>
+<img src="assets/test_cases/point/step040-monthly_settlement.PNG" alt="STEP040 월별 정산 대금 조회"/>
 
-- STEP040 월별 정산 대금 조회  
-<img src="assets/test_cases/point/step40-settlement-monthly.PNG" alt="STEP040 월별 정산 대금 조회"/>
+</details>
 
-- STEP041 내가 작성한 댓글 조회
-<img src="assets/test_cases/point/step41-mycomments.PNG" alt="STEP041 댓글 조회"/>
-
-- STEP042 내가 작성한 게시물 조회
-<img src="assets/test_cases/point/step42-myposts.PNG" alt="STEP041 게시글 조회"/>
-
-- STEP043 개설 모임 조회
-<img src="assets/test_cases/point/step43-created-meetings.PNG" alt="STEP43 개설 모임 조회"/>
-
-- STEP44 참여 모임 조회(예정, 완료, 취소)
-<img src="assets/test_cases/point/step44-created-meetings.PNG" alt="STEP44 참여 모임 조회(예정, 완료, 취소)"/>
-
-- STEP44 친구 개설 모임 조회
-<img src="assets/test_cases/point/step45-friend-meetings.PNG" alt="STEP45 친구 개설 모임 조회"/>
-
-- STEP47-49 친구 관리(친구 신청 목록 조회, 친구 수락 및 거절, 친구 목록 조회)
-<img src="assets/test_cases/point/step47-49-friends.gif" alt="STEP45 친구 관리"/>
-
-- STEP55-58 운영중인 장소 목록
-<img src="assets/test_cases/point/step55-58-business-places.png" alt="STEP55-58 운영 중인 장소 목록"/>
+<br>
 
 <details>
 <summary>모임</summary>
@@ -638,6 +637,8 @@ LinkUp은 모임이라는 소속에 구애받지 않고 언제든 원할 때 신
 </details>
 
 <br>
+
+<details>
 <summary>커뮤니티</summary>
 
 - STEP087  게시글 목록 조회
@@ -692,7 +693,7 @@ LinkUp은 모임이라는 소속에 구애받지 않고 언제든 원할 때 신
 - STEP102 댓글 좋아요 취소
   <img src="assets/test_cases/community/STEP102 CommentUnlike.jpg.jpg" alt="STEP095 댓글 좋아요 취소"/>
 
-
+</details>
 
 <br>
 
