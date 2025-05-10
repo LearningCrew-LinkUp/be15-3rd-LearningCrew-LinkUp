@@ -540,7 +540,7 @@ LinkUp은 모임이라는 소속에 구애받지 않고 언제든 원할 때 신
 <img src="assets/test_cases/user/step08-verify_email_fail.PNG" alt="STEP08 이메일 인증"/>
    <img src="assets/test_cases/user/step08-verify_email_success.PNG" alt="STEP08 이메일 인증"/>
 - STEP09-10 비밀번호 찾기(비밀번호 링크 전송) 및 비밀번호 재설정
-<img src="assets/test_cases/user/step09-reset-password-link.gif" alt="STEP09-10 비밀번호 찾기(비밀번호 링크 전송)"/>
+<img src="assets/test_cases/user/step09-10-reset-password.gif" alt="STEP09-10 비밀번호 찾기(비밀번호 링크 전송)"/>
 - STEP11~12 로그인 정보 입력  
 <img src="assets/test_cases/user/step11-12-login.gif" alt="STEP11~12 로그인"/>
 - STEP13 로그아웃
@@ -560,34 +560,34 @@ LinkUp은 모임이라는 소속에 구애받지 않고 언제든 원할 때 신
 <img src="assets/test_cases/point/step35-37-account.gif" alt="STEP035 계좌 관리"/>
 
 - STEP039 정산 내역 조회  
-<img src="assets/test_cases/point/step39-settlement_history.PNG" alt="STEP039 정산 내역 조회"/>
+<img src="assets/test_cases/user/step39-settlement_history.PNG" alt="STEP039 정산 내역 조회"/>
 
 - STEP040 월별 정산 대금 조회  
-<img src="assets/test_cases/point/step40-settlement-monthly.PNG" alt="STEP040 월별 정산 대금 조회"/>
+<img src="assets/test_cases/user/step40-settlement-monthly.PNG" alt="STEP040 월별 정산 대금 조회"/>
 
 - STEP040 월별 정산 대금 조회  
-<img src="assets/test_cases/point/step40-settlement-monthly.PNG" alt="STEP040 월별 정산 대금 조회"/>
+<img src="assets/test_cases/user/step40-settlement-monthly.PNG" alt="STEP040 월별 정산 대금 조회"/>
 
 - STEP041 내가 작성한 댓글 조회
-<img src="assets/test_cases/point/step41-mycomments.PNG" alt="STEP041 댓글 조회"/>
+<img src="assets/test_cases/user/step41-mycomments.PNG" alt="STEP041 댓글 조회"/>
 
 - STEP042 내가 작성한 게시물 조회
-<img src="assets/test_cases/point/step42-myposts.PNG" alt="STEP041 게시글 조회"/>
+<img src="assets/test_cases/user/step42-myposts.PNG" alt="STEP041 게시글 조회"/>
 
 - STEP043 개설 모임 조회
-<img src="assets/test_cases/point/step43-created-meetings.PNG" alt="STEP43 개설 모임 조회"/>
+<img src="assets/test_cases/user/step43-created-meetings.PNG" alt="STEP43 개설 모임 조회"/>
 
 - STEP44 참여 모임 조회(예정, 완료, 취소)
-<img src="assets/test_cases/point/step44-created-meetings.PNG" alt="STEP44 참여 모임 조회(예정, 완료, 취소)"/>
+<img src="assets/test_cases/user/step44-created-meetings.PNG" alt="STEP44 참여 모임 조회(예정, 완료, 취소)"/>
 
 - STEP44 친구 개설 모임 조회
-<img src="assets/test_cases/point/step45-friend-meetings.PNG" alt="STEP45 친구 개설 모임 조회"/>
+<img src="assets/test_cases/user/step45-friend-meetings.PNG" alt="STEP45 친구 개설 모임 조회"/>
 
 - STEP47-49 친구 관리(친구 신청 목록 조회, 친구 수락 및 거절, 친구 목록 조회)
-<img src="assets/test_cases/point/step47-49-friends.gif" alt="STEP45 친구 관리"/>
+<img src="assets/test_cases/user/step47-49-friends.gif" alt="STEP45 친구 관리"/>
 
 - STEP55-58 운영중인 장소 목록
-<img src="assets/test_cases/point/step55-58-business-places.png" alt="STEP55-58 운영 중인 장소 목록"/>
+<img src="assets/test_cases/user/step55-58-business-places.png" alt="STEP55-58 운영 중인 장소 목록"/>
 
 <details>
 <summary>모임</summary>
